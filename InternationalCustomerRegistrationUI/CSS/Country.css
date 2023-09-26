@@ -1,0 +1,52 @@
+﻿.body {
+    align-content:normal;
+    align-items:center;
+    border-style: solid;
+    border-color: green;
+    background-color: cadetblue;
+    background-image: url("https://thumbs.dreamstime.com/z/white-paper-earth-d-map-vector-template-business-infographic-world-ocean-continent-illustration-94658240.jpg");
+}
+
+.cssbtnEdit {
+    border-style: solid;
+    border-color: cyan;
+    border-width: thick;
+    background-color: beige;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0px;
+    cursor: pointer;
+}
+
+.cssbtnDelete {
+    border-style: solid;
+    border-color: cyan;
+    border-width: thick;
+    background-color: beige;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0px;
+    cursor: pointer;
+}
+
+.cssbtnSave {
+    border-style: solid;
+    border-color: cyan;
+    border-width: thick;
+    background-color: beige;
+    color: gray;
+    padding: 14px 20px;
+    margin: 8px 0px;
+    cursor: pointer;
+}
+
+.cssbtnClear {
+    border-style: solid;
+    border-color: cyan;
+    border-width: thick;
+    background-color: beige;
+    color: gray;
+    padding: 14px 20px;
+    margin: 8px 0px;
+    cursor: pointer;
+}
